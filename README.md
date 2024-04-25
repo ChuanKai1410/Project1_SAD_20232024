@@ -3,7 +3,7 @@
 ![Restaurant](https://www.google.com/imgres?q=picture%20of%20restaurant%20inside&imgurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F06%2F09%2F61%2F01%2F360_F_609610143_J1Q1aHc6z99Jq93GLdTJJ8OjQfdBGDL2.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3D%2522restaurant%2Binterior%2522&docid=gNTjsIACIArCbM&tbnid=3YgMX5DUcKAwoM&vet=12ahUKEwjA3ria1N2FAxWjyzgGHVUIDocQM3oECBMQAA..i&w=643&h=360&hcb=2&ved=2ahUKEwjA3ria1N2FAxWjyzgGHVUIDocQM3oECBMQAA)
 
 ## Introduction
-|---|
+----
 Restaurant Management System (RMS) are becoming indispensable tools in current’s restaurant business for improving client experiences and optimizing operations. However, plenty of restaurants, for instance Siao Sheng Ya, are having problems with their existing RMS. 
 
 At present, the Siao Sheng Ya restaurant’s manager, Mr. Kiho states that the restaurant only accepts orders from diners and takeout customers using a primitive RMS. However, this system lacks crucial features such as advanced reservation capabilities, online payment options and delivery administration. In addition to this, processing payments and entering orders by hand at the counter causes inefficiencies and service delays. Due to its restricted capabilities, the restaurant is unable to effectively compete in the market and adapt to changing client needs. 
