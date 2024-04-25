@@ -10,7 +10,9 @@ At present, the Siao Sheng Ya restaurant’s manager, Mr. Kiho states that the r
 
 Mr. Kiho intends to improve the current RMS to better serve the demands of the restaurant’s patrons in order to address these issues. In order to maintain its competitive edge in the fast-paced restaurants sector of nowadays, Mr. Kiho is modernizing its system to incorporate enhanced reservation capabilities, delivery management and online payment choices. 
 
+
 ## Background Study
+---
 Currently, Siao Sheng Ya restaurant relies on a basic restaurant management system (RMS) to handle its daily operations, encompassing food ordering, menu display, and pick-up services for dining in or takeout orders. Despite its reputation for delectable cuisine, the restaurant grapples with inefficiencies in delivery management, reservation capabilities, and payment methods. Mr. Kiho, the proprietor, has turned to DineDart.com, a robust platform, to optimize his operations and enhance customer service.
 
 Additionally, Mr. Kiho has observed a significant number of students and low-income families patronizing his establishment. Recognizing the need to cater to their needs, he contemplates offering a dedicated menu tailored to their preferences, aiming to provide a welcoming atmosphere for all patrons. In the fiercely competitive restaurant industry, customer satisfaction is paramount. However, Siao Sheng Ya faces challenges in delivering seamless dining experiences and promptly addressing customer inquiries.
@@ -19,14 +21,18 @@ The current pick-up service falls short of meeting service standards and fosteri
 
 To address these challenges, Siao Sheng Ya seeks to digitize key operational processes, including delivery management, payment processing, catering menus, and reservation capabilities. By leveraging the capabilities of DineDart.com, the restaurant aims to streamline operations, enhance service efficiency, and elevate the overall dining experience for its customers. Through innovative technology and seamless integration, Siao Sheng Ya endeavors to delight customers and achieve excellence in its business operations.
 
+
 ## Problem Statement
+---
 - Limited Website Access
 - Lack of Reservation System
 - Absence of Delivery System
 - Limited Payment Methods
 - Menu Not Catering to Low-Income Families
 
+
 ## Objectives
+---
 1. To provide the customers with a better way to reserve a seat in the restaurant.
 2. To organize the way of ordering the menu in the restaurant.
 3. To give an option for a customer to have their food delivered to their home.
