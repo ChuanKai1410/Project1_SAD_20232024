@@ -1,6 +1,6 @@
 # Project1_SAD_20232024
 
-![Restaurant](https://github.com/ChuanKai1410/Project1_SAD_20232024/blob/main/image/restaurant.jpeg?raw=true)
+<image src = "image/restaurant.jpg" width="2000" height="500">
 
 ## Introduction
 ----
