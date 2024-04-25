@@ -1,6 +1,6 @@
 # Project1_SAD_20232024
 
-<image src = "image/restaurant.jpg" width="2000" height="500">
+<image src = "image/restaurant.jpeg" width="2000" height="500">
 
 ## Introduction
 ----
