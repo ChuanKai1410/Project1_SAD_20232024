@@ -28,7 +28,7 @@ To address these challenges, Siao Sheng Ya seeks to digitize key operational pro
 - Lack of Reservation System
 - Absence of Delivery System
 - Limited Payment Methods
-- Menu Not Catering to Low-Income Families
+- Difficulty in Switching Menu Interface
 
 
 ## Objectives
