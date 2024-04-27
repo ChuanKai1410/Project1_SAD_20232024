@@ -1,6 +1,6 @@
 # Project1_SAD_20232024
 
-<image src = "image/restaurant.jpeg" width=1000px height=900px >
+<image src = "" width=1000px height=900px >
 
 ## Prepared by 🧑‍💻
 
