@@ -7,7 +7,7 @@
 | Name             | Matric Number | Photo                                                         |
 | :---------------- | :-------------: | :------------------------------------------------------------: |
 | CHONG LUN QUAN          | A23CS0067        | <img src="" width=200px, height=200px>    |
-| CHEW CHUAN KAI            | A23CS0062     | <img src="image/chuankai.jpg" width=200px, height=15rem>    |
+| CHEW CHUAN KAI            | A23CS0062     | <img src="image/chuankai.jpg" width="auto" height="auto">    |
 | IZZ HAEIL BIN HAMISHAMSUL                | A23CS0088       | <img src="" width=200px, height=200px>         |
 | CHEN SHU YAN           | A23CS0059     | <img src="image/sy.jpg" width=200px, height=200px>    |
 
