@@ -1,6 +1,6 @@
 # Project1_SAD_20232024
 
-<image src = "image/restaurant2.webp" width=1000rem height=800rem>
+<image src = "image/restaurant2.webp">
 
 ## Prepared by 🧑‍💻
 
