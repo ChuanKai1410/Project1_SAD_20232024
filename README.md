@@ -16,7 +16,7 @@
 - [Introduction](#introduction)
 - [Background Study](#background-study)
 - [Problem Statement](#problem-statement)
-- [Objective](#objective)
+- [Objectives](#objectives)
 
 
 ## Introduction
