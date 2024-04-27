@@ -1,6 +1,16 @@
 # Project1_SAD_20232024
 
-<image src = "image/restaurant.jpeg" width="2000" height="500">
+<image src = "image/restaurant.jpeg" width=100vh height=100vh>
+
+## Prepared by 🧑‍💻
+
+| Name             | Matric Number | Photo                                                         |
+| :---------------- | :-------------: | :------------------------------------------------------------: |
+| CHONG LUN QUAN          | A23CS0067        | <img src="" width=200px, height=200px>    |
+| CHEW CHUAN KAI            | A23CS0062     | <img src="chuankai.jpg" width=200px, height=200px>    |
+| IZZ HAEIL BIN HAMISHAMSUL                | A23CS0088       | <img src="" width=200px, height=200px>         |
+| CHEN SHU YAN           | A23CS0059     | <img src="images/sy.jpg" width=200px, height=200px>    |
+
 
 ## Introduction
 ----
