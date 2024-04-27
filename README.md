@@ -8,7 +8,7 @@
 | :---------------- | :-------------: | :------------------------------------------------------------: |
 | CHONG LUN QUAN          | A23CS0067        | <img src="https://github.com/ChuanKai1410/Project1_SAD_20232024/assets/147676251/35322cb7-8a85-4dd2-9d53-9e2f8e21d608" width=150px, height=200px>    |
 | CHEW CHUAN KAI            | A23CS0062     | <img src="image/chuankai.jpg" width=200px height=280px>    |
-| IZZ HAEIL BIN HAMISHAMSUL                | A23CS0088       | <img src="" width=200px, height=200px>         |
+| IZZ HAEIL BIN HAMISHAMSUL                | A23CS0088       | <img src="image/haeil.jpg" width=200px, height=200px>         |
 | CHEN SHU YAN           | A23CS0059     | <img src="image/sy.jpg" width=200px, height=200px>    |
 
 ## Table of Contents
