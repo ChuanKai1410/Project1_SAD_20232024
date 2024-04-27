@@ -55,4 +55,4 @@ To address these challenges, Siao Sheng Ya seeks to digitize key operational pro
 3. To give an option for a customer to have their food delivered to their home.
 4. To reduce the owner's worker time for taking orders for each table.
 5. To encourage clients for a cashless payment.
-[🔼Back to top](#Project1_SAD_20232024)
+＜p align="right"＞[🔼Back to top](#Project1_SAD_20232024)＜/p＞
