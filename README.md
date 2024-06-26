@@ -2,6 +2,12 @@
 
 <image src = "image/restaurant2.webp">
 
+## Prototype Demonstration Video
+[Demo Video](https://youtu.be/6k4fXaN-0MI).
+
+## Prototype View
+[DineDart](https://pr.to/T0VCNJ/https://pr.to/T0VCNJ/).
+
 ## Prepared by 🧑‍💻
 
 | Name             | Matric Number | Photo                                                         |
