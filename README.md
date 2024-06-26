@@ -2,11 +2,11 @@
 
 <image src = "image/restaurant2.webp">
 
-## Prototype Demonstration Video
+## Prototype Demonstration Video :loud_sound: 
 [Demo Video](https://youtu.be/6k4fXaN-0MI).
 
-## Prototype View
-[DineDart](https://pr.to/T0VCNJ/https://pr.to/T0VCNJ/).
+## Prototype View :iphone:
+[DineDart](https://pr.to/T0VCNJ/).
 
 ## Prepared by 🧑‍💻
 
