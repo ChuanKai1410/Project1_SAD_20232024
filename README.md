@@ -3,7 +3,7 @@
 <image src = "image/restaurant2.webp">
 
 ## Prototype Demonstration Video :loud_sound: 
-[Demo Video](https://youtu.be/6k4fXaN-0MI).
+[Demo Video](https://youtu.be/pL7p3h1_2sw).
 
 ## Prototype View :iphone:
 [DineDart](https://pr.to/T0VCNJ/).
